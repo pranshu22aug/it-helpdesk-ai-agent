@@ -41,3 +41,20 @@ Add onboarding workflows
 Add ticket triage capabilities
 Integrate ServiceNow
 Connect to Microsoft Knowledge Bases
+
+Documentation
+Architecture: architecture.md
+Testing: testing.md
+Project Screenshots
+See uploaded screenshots demonstrating:
+
+Agent Configuration
+Knowledge Base
+Agent Testing
+Key Concepts Learned
+AI Agents
+Knowledge Grounding
+Retrieval Augmented Generation (RAG)
+Prompt Engineering
+AI Testing
+Documentation Management
